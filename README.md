@@ -22,6 +22,11 @@ This program simulates the Wester Governors University Parcel Service (WGUPS) de
 - Truck capacity limits
 - Two-driver operational constraints
 ## Example Output
+Screenshots/ folder contains:
+- 1 screenshot of all packages at 9:05 AM
+- 1 screenshot of all packages at 10:20 AM
+- 1 screenshot of all packages at 12:45 PM
+- 1 screenshot of the initial program startup output and demoing through the supervisor interface
 ## Supervisor Interface
 Users can:
 - Lookup package status at any time
@@ -42,4 +47,5 @@ This project demonstrates:
 - logistics optimization
 - time-based system modeling
 - custom data structure implementation
+
 - real-world constraint handling
